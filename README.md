@@ -23,9 +23,3 @@ Shoe Cart is a simple web application built using React that allows users to bro
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
 5. Open the app in your browser: `http://localhost:<PORT>`
-
-### Screenshots
-[Include screenshots of your app here]
-
-### Demo
-[Provide a link to a live demo of your app if available]

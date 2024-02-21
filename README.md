@@ -1,4 +1,4 @@
-## Shoe Cart
+## Shoe Cart [Live Demo](https://shoe-cart-react.vercel.app/)
 
 ### Overview
 Shoe Cart is a simple web application built using React that allows users to browse a collection of shoes and add them to their cart. It uses React.JS for managing state and Context for handling cart items. The app is styled using Tailwind CSS, following a mobile-first design approach.

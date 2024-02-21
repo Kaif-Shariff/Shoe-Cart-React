@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #161616;
+  color: silver;
+  font-family: "Teko", sans-serif;
+  font-size: 3rem;
+}

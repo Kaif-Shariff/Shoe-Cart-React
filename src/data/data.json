@@ -1,0 +1,38 @@
+[
+    {
+        "model": "Running Shoe",
+        "image": "shoe1.png",
+        "company": "Nike",
+        "price": "2999"
+    },
+    {
+        "model": "Basketball Shoe",
+        "image": "shoe2.png",
+        "company": "Adidas",
+        "price": "1299"
+    },
+    {
+        "model": "Casual Sneaker",
+        "image": "shoe3.png",
+        "company": "Puma",
+        "price": "2500"
+    },
+    {
+        "model": "Hiking Boot",
+        "image": "shoe1.png",
+        "company": "H&M",
+        "price": "1595"
+    },
+    {
+        "model": "Dress Shoe",
+        "image": "shoe2.png",
+        "company": "Crocs",
+        "price": "2000"
+    },
+    {
+        "model": "Jogging Shoe",
+        "image": "shoe3.png",
+        "company": "Zara",
+        "price": "1000"
+    }
+]

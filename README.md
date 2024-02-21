@@ -1,4 +1,5 @@
-## [./cart_icon.png](https://shoe-cart-react.vercel.app/) Shoe Cart
+## [![mobile_logo](https://github.com/Kaif-Shariff/Shoe-Cart-React/assets/93507427/ce074d4e-7262-4edc-ad4b-b5c7b2842fca)](https://shoe-cart-react.vercel.app/) Shoe Cart
+
 
 ### Overview
 Shoe Cart is a simple web application built using React that allows users to browse a collection of shoes and add them to their cart. It uses React.JS for managing state and Context for handling cart items. The app is styled using Tailwind CSS, following a mobile-first design approach.

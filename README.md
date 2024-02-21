@@ -1,4 +1,6 @@
-## [![mobile_logo](https://github.com/Kaif-Shariff/Shoe-Cart-React/assets/93507427/ce074d4e-7262-4edc-ad4b-b5c7b2842fca)](https://shoe-cart-react.vercel.app/) Shoe Cart
+[![mobile_logo](https://github.com/Kaif-Shariff/Shoe-Cart-React/assets/93507427/ce074d4e-7262-4edc-ad4b-b5c7b2842fca)](https://shoe-cart-react.vercel.app/) 
+
+## Shoe Cart
 
 
 ### Overview

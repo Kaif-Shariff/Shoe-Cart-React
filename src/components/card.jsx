@@ -47,10 +47,10 @@ const Card = ({ im, cmp, mod, pric, showAddedModal }) => {
         <p>Model: {mod}</p>
         <p>Price: {pric}</p>
       </div>
-      <div className="mt-4">
-        <button className="mx-1 border-green-500 border-2 px-4 rounded-md font-semibold hover:bg-green-500">
+      <div className="mt-4 flex justify-center">
+        {/* <button className="mx-1 border-green-500 border-2 px-4 rounded-md font-semibold hover:bg-green-500">
           Buy Now
-        </button>
+        </button> */}
         <button
           className="mx-1 px-4 bg-green-500 border-green-500 border-2 rounded-md font-semibold hover:bg-transparent"
           onClick={handleCart}

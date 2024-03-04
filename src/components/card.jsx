@@ -23,7 +23,7 @@ const Card = ({ im, cmp, mod, pric, showAddedModal }) => {
               { ...item, qnt: item.qnt + 1 } // but with an increased quantity by 1
             : item // Return the item as is
       );
-
+      showAddedModal();
       // Update the items state with the updatedItems array
       setItems(updateItemList);
     } else {
